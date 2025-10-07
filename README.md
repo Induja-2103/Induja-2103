@@ -35,7 +35,8 @@
 
 ## 🏆 LeetCode Stats
 
-  !(https://leetcard.jacoblin.cool/induja2103?theme=dark&font=Antic%20Slab)
+![LeetCode Stats](https://leetcard.jacoblin.cool/induja2103?theme=dark&font=Alata)
+
 
 ---
 
