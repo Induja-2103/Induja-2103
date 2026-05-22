@@ -9,12 +9,10 @@
 ---
 
 ## 👩‍💻 About Me
--💻 Passionate about building modern, scalable, and user-friendly web applications using full stack technologies.
--🧠 Deeply interested in Artificial Intelligence and Machine Learning, with a focus on creating smart and impactful solutions.
--🚀 Continuously learning new technologies, improving problem-solving skills, and exploring innovative development practices.
--🤝 Eager to collaborate on real-world projects, contribute to meaningful ideas, and grow as a technology professional.
-
-
+• 💻 Passionate about building modern, scalable, and user-friendly web applications using full stack technologies.
+• 🧠 Deeply interested in Artificial Intelligence and Machine Learning, with a focus on creating smart and impactful solutions.
+• 🚀 Continuously learning new technologies, improving problem-solving skills, and exploring innovative development practices.
+• 🤝 Eager to collaborate on real-world projects, contribute to meaningful ideas, and grow as a technology professional.
 ---
 
 ## 💻 Code In
