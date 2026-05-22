@@ -9,10 +9,10 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎓 A dedicated **engineering student** with a strong interest in **web and software development**.  
-- 💻 Focused on building **efficient, user-friendly, and scalable applications**.  
-- 🧠 Enthusiastic about **learning modern frameworks** and improving problem-solving abilities.  
-- 🚀 Always eager to **collaborate, innovate, and grow** in the field of technology.
+-💻 Passionate about building modern, scalable, and user-friendly web applications using full stack technologies.
+-🧠 Deeply interested in Artificial Intelligence and Machine Learning, with a focus on creating smart and impactful solutions.
+-🚀 Continuously learning new technologies, improving problem-solving skills, and exploring innovative development practices.
+-🤝 Eager to collaborate on real-world projects, contribute to meaningful ideas, and grow as a technology professional.
 
 
 ---
