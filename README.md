@@ -2,7 +2,7 @@
 
 # Hey 👋 Induja here ,
 
-### An Enthusiastic Web Developer | Growing Full Stack Developer
+### An Enthusiastic Full Stack Developer | Aspiring AI & ML Engineer
 
 </div>
 
